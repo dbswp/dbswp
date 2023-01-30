@@ -1,7 +1,7 @@
 ## **소개**
 - **이름** : 윤제 / Yoon Jae
 - **닉네임** : **'dbswp'**
-- **이메일** : nhd2010@naver.com
+- **이메일** : dbswp980427@gmail.com
 
 ## 💪Skills
 ### Platforms & Languages
