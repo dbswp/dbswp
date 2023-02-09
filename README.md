@@ -24,7 +24,8 @@
 - 2023.01 포스코X코딩온 풀스택 웹개발자 양성 5기 (진행중..)
 
 ## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbswp&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbswp&theme=dracula) 
+<img src="https://github-readme-stats.vercel.app/api?username=limjongheok&show_icons=true&theme=radical">
 
 ### BAEKJOON
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbswp123)](https://solved.ac/dbswp123/)
