@@ -25,7 +25,7 @@
 
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbswp&theme=dracula) 
-<img src="https://github-readme-stats.vercel.app/api?username=limjongheok&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=dbswp&show_icons=true&theme=radical">
 
 ### BAEKJOON
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbswp123)](https://solved.ac/dbswp123/)
