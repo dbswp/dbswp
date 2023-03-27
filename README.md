@@ -16,7 +16,7 @@
 
 ## Project
 - 자취9단 (요리 레시피 제공하는 모바일 어플리케이션)
-- PLANT.IT (홈 가드닝에 대한 정보 제공하는 웹사이트)
+- PLANT.IT (홈 가드닝에 대한 정보 제공하는 웹사이트, https://github.com/tjdgml97/PLANT.IT)
 
 ## Careers
 - 한남대학교 컴퓨터공학과 졸업(2023.02)
