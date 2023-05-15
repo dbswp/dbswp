@@ -17,6 +17,7 @@
 ## Project
 - 자취9단 (요리 레시피 제공하는 모바일 어플리케이션)
 - PLANT.IT (홈 가드닝에 대한 정보 제공하는 웹사이트, https://quiet-llama-238361.netlify.app)
+- Balnce Place (서울 주요 50곳의 인구밀집 데이터 및 날씨 정보 제공 사이트)
 
 ## Careers
 - 한남대학교 컴퓨터공학과 졸업(2023.02)
