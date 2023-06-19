@@ -22,7 +22,7 @@
 ## Careers
 - 한남대학교 컴퓨터공학과 졸업(2023.02)
 - 2022 한남대학교 컴퓨터공학과 캡스톤 디자인 인기상(배고픈독수리)
-- 2023.01 포스코X코딩온 풀스택 웹개발자 양성 5기
+- 2023.01 포스코X코딩온 풀스택 웹개발자 양성 5th
 
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbswp&theme=dracula) 
